@@ -3,6 +3,7 @@ public class Main {
         System.out.println("coś innego niż tamten");
         for (int i = 0; i < 599; i++) {
             System.out.println("ja dopisuję jako osoba 1:" + i);
+            System.out.println("zmiana nowa");
         }
         System.out.println("Cośtam");
     }
